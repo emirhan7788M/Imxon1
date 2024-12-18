@@ -1,0 +1,28 @@
+h1{
+    border: solid 3px red;
+    border-radius: 20px;
+    text-align: center;
+    background-color: aquamarine;
+}
+h2{
+    color:green
+    ;
+}
+hh2{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+hhh2{
+    color: green
+    ; background-color: yellow;
+    text-align: center;
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+table{
+    text-align: center;
+
+}
